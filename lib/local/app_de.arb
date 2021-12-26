@@ -1,0 +1,11 @@
+{
+    "language": "Deutsch",
+    "calculator": "Taschenrechner",
+    "title": "Reiseliste",
+    "addPageTitle": "Daten Hinzufügen",
+    "update": "Aktualisieren",
+    "updatePage": "Datenaktualisierung"
+    "homePage":"Startseite"
+    "qrcode":"QR Code Anzeigen-Ausblenden"
+    "gallery":"Fotogallerie"
+}

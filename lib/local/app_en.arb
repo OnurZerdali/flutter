@@ -1,0 +1,41 @@
+{
+    "language": "English",
+    "@language":{
+        "description": "The current language"
+    },
+    "calculator": "Calculator",
+    "@calculator":{
+            "description": "A programmer greeting"
+    },
+    "title": "Trip List",
+    "@title":{
+        "description": "trip list title"
+    },
+    "addPageTitle": "Add Data",
+    "@AddPageTitle":{
+        "description": "add data title"
+    },
+    "update": "Update",
+    "@update":{
+        "description": "update data title"
+    },
+    "updatePage": "Update Page",
+    "@updatePage":{
+        "description": "update data title"
+    }
+
+    "homePage": "Home Page",
+        "@homePage":{
+            "description": "update data title"
+    }
+
+    "qrcode": "QR-Code Show-Hide",
+            "@qrcode":{
+                "description": "update data title"
+    }
+
+    "gallery": "Photo gallery",
+                "@gallery":{
+                    "description": "update data title"
+    }
+}
